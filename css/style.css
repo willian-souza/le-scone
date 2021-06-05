@@ -1,0 +1,7 @@
+/*Variaveis*/
+/*Box-sizing*/
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+/* Mixin media querie */
